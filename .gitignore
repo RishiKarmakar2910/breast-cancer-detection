@@ -1,0 +1,18 @@
+# Ignore virtual environment
+venv/
+
+# Ignore dataset and preprocessed data
+datasets/
+preprocessed_batches/
+
+# Ignore model files (if large)
+*.h5
+
+# Ignore test images
+sample_test_image.png
+sample_test_image2.png
+
+# Ignore OS/IDE files
+__pycache__/
+*.pyc
+.DS_Store
