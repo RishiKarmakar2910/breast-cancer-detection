@@ -5,8 +5,6 @@ venv/
 datasets/
 preprocessed_batches/
 
-# Ignore model files (if large)
-*.h5
 
 # Ignore test images
 sample_test_image.png
